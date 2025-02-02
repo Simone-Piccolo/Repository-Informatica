@@ -36,8 +36,6 @@ def simula_partita():
         print(f"[Player1] Damage: {danno_player_1} ({attacco_player_1}-{scudo_player_2})")
       
         print(f"[Player2] Health: {vita_player_2}")
-      
-        print("\t---")
         
         # Calcolo attacco Player 2
       

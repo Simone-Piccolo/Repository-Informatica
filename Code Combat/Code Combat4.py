@@ -182,7 +182,7 @@ def lancia_favore(chierico, party):
     
     # Trova il personaggio con la vita più bassa
   
-    personaggio_da_curare = party[0]  # Iniziamo assumendo che il primo personaggio sia quello da curare
+    personaggio_da_curare = party[0]  
   
     for p in party:
       

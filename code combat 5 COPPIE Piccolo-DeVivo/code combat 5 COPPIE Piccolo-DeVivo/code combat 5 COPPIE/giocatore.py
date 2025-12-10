@@ -1,4 +1,3 @@
-import random                          
 from arma import Arma                  
 
 class Giocatore:                       # Definizione della classe Giocatore
@@ -104,3 +103,4 @@ class Giocatore:                       # Definizione della classe Giocatore
 
     def tick_buffs(self):
         pass
+
